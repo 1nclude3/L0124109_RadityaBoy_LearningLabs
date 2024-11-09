@@ -1,0 +1,1 @@
+Codingan yang saya buat adalah sebuah codingan yang akan menunjukkan tentang Menu menu yang ada di Warung Bekicot Magetan, pada page Home menampilkan Welcome, lalu ada slide image, pada page Product menampilkan menu menu yang tersedia, pada page Feedback terdapat form yang dapat di isi oleh user, namun belum dapat menghasilkan output apa apa
